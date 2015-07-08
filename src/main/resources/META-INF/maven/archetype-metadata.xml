@@ -4,10 +4,6 @@
   name="maven-archetype-jar"
   xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <requiredProperties>
-    <requiredProperty key="name">
-    </requiredProperty>
-  </requiredProperties>
   <fileSets>
     <fileSet filtered="false" encoding="UTF-8">
       <directory></directory>
